@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Agri-Doctor</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="save">Save</string>
+    <string name="agri_doctor">AGRI DOCTOR</string>
+    <string name="takephoto">Camera</string>
+    <string name="selectphoto">Gallery</string>
+    <string name="image">Image</string>
+    <string name="diagnose">Diagnose</string>
+    <string name="result">Default Image Set Now…</string>
+    <string name="title_activity_help">Help</string>
+    <string name="large_text">
+        <b>The Agri-Doctor</b>is an Artificial Intelligence And cloud based platform mobile
+        application for plant disease detection.\n\n
+        <b>Instructions</b>\n\n
+        <li>User can detect the disease of the plant using the uploaded image of the leaf of the
+            plant using the mobile application.</li>\n
+        <li>User can either upload a photo from the gallery that has already taken or can take a
+            live photo use the camera in the application and uploads.</li>\n
+        <li>User can understand about the different plant diseases using the plant disease button
+            in the home page.</li>\n
+        <li>Just use your mobile number for creating your the account.</li>\n
+        <li>User can contact a plant pathologist for further more clarrification using the expert
+            connect button.</li>\n
+        <li>The result is shown as text bellow the diagnose button and the accuracy is shown below
+            it from the range 0 to 1(i.e if it shows 0.5 the accuracy will be 50% and if it 1.0 the
+            accuracy will be 100%.</li>\n\n
+        <b>Details</b>\n\n
+        Agri-Doctor is an Android Application that would allow farmers to treat their plant diseases
+        in a series of steps which are predefined in our system. We are using Tensorflow library
+        (Machine Learning library) to detect plant disease. The farmers can use their smartphone to
+        scan a particular plant leaf which they suspect for having a plant disease. We have
+        generated custom re trained tensorflow models using the possible plant diseases. Here we are
+        retraining a tflite model. The model is pre trained with common classifications, but on top
+        of it we are training it with various leaf diseases. We then analyse the plant diseases,
+        symptoms etc and then predict the plant disease.\n
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="about_text">\tThe <b>AGRI-DOCTOR</b> is an Artificial Intelligence And cloud based
+        platform that is used to predict the Plant Disease.\n
+        <b>\n\t\t\tDeveloped by \n\t\t\t\tFEBIN FAVAS M\n\t\t\t\tMUHAMEED NADEER MK\n\t\t\t\t
+            GREESHMA K\n\t\t\t\tAJITH DEV C\n</b>
+        \n\tAs part of the academics from Government Engineering College,Wayanad under the guidance of
+        <b>Mrs.Smitha Kurian</b> (Assistant Professor,CSE Department) </string>
+    <string name="plant_patholagists"><b>Plant Patholagists</b></string>
+</resources>

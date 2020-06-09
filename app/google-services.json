@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "510298113633",
+    "firebase_url": "https://agri-doctor-119b8.firebaseio.com",
+    "project_id": "agri-doctor-119b8",
+    "storage_bucket": "agri-doctor-119b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510298113633:android:f45d30cc851853db210c20",
+        "android_client_info": {
+          "package_name": "com.example.agri_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510298113633-477s4jdk7b5vvuvp4c79j91i8jhjohfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agri_doctor",
+            "certificate_hash": "50964b64b6d633fd0b6fc100e86de0ec96bb882a"
+          }
+        },
+        {
+          "client_id": "510298113633-jvn6l4afhrmsddb2mo4al8undfsju7tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6erEtkMr-LTVLfsf384TSTDE5XdHtVYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510298113633-jvn6l4afhrmsddb2mo4al8undfsju7tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
